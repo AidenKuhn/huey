@@ -1,11 +1,11 @@
 
-# Version: 0.15
+#*Version: 0.15
 
 """
 The Versioneer
 ==============
 
-* like a rocketeer, but for versions!
+# like a rocketeer, but for versions!
 * https://github.com/warner/python-versioneer
 * Brian Warner
 * License: Public Domain
@@ -1697,3 +1697,4 @@ if __name__ == "__main__":
         errors += scan_setup_py()
         if errors:
             sys.exit(1)
+ 
